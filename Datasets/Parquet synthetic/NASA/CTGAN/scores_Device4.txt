@@ -1,0 +1,3 @@
+Column Shapes: 0.9226121020170029
+Column Pair Trends: 0.9822564470587817
+Overall Score: 0.9524342745378923
